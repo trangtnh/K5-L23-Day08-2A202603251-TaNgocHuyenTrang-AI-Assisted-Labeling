@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_013.jpg,loi_may,"YOLO26 nham xe ba banh (tuk-tuk, ba gac) thanh car hoac truck","Sua toan bo nhan tuk-tuk thanh three_wheeler; uu tien YOLOE truoc YOLO26","Moi phuong tien ba banh co dong co hoac tho so gan three_wheeler, khong gan car/truck",v1.1
+CAL-02,img_002.jpg,cau_hoi_mo,"Xe dap dien va xe may dien nho: phan van giua bicycle va motorbike","Gan bicycle neu co ban dap tro luc; gan motorbike neu khong ban dap hoac kieu dang xe ga","Phan biet xe dien bang su xuat hien cua ban dap chan (co ban dap = bicycle)",v1.1
+CAL-03,img_005.jpg,cau_hoi_mo,"Cum xe may do day dac o xa trong gio cao diem gay roi box","Gom cum >= 5 xe o xa chieu cao duoi 20px thanh mot box ignore_region duy nhat","Cum xe nho o xa cao < 20px gom bang ignore_region, khong ve rieng tung xe",v1.1
