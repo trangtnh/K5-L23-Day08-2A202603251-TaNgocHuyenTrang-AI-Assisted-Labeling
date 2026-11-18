@@ -103,4 +103,3 @@ Thông số và số lượng đầu ra lấy từ `submission/model_log.csv` (r
 - Kết quả kiểm tra cấu trúc: **4 ảnh, 74 đối tượng, OK**.
 - Cảnh báo về box bicycle dưới 20px trên `img_001.jpg`: Giữ nguyên để phản ánh trung thực kết quả gán tay độc lập ban đầu của học viên làm đối chứng.
 - Thời gian gán tay thật: 15 phút cho 4 ảnh (ghi nhận trong `time_log.csv`).
-- Toàn bộ quá trình gán gold hoàn toàn không sử dụng AI hỗ trợ.
